@@ -1,0 +1,4 @@
+https://hw51rddmp.s3.ap-southeast-1.amazonaws.com/1088513091236366080/converted/20230323/204605--add--DataNexx_DemoFacts_Gender_Age_Female_40_plus--1.2000--.txt
+https://hw51rddmp.s3.ap-southeast-1.amazonaws.com/1088513091236366080/converted/20230323/204605--del--DataNexx_DemoFacts_Gender_Age_Female_40_plus--1.2000--.txt
+https://hw51rddmp.s3.ap-southeast-1.amazonaws.com/1088513091236366080/converted/20230323/204689--add--DataNexx_Persona_GamblerLifestyle_ADEX--2.5000--.txt
+https://hw51rddmp.s3.ap-southeast-1.amazonaws.com/1088513091236366080/converted/20230323/204689--del--DataNexx_Persona_GamblerLifestyle_ADEX--2.5000--.txt
